@@ -10,13 +10,6 @@ https://data.london.gov.uk/dataset/postcode-directory-for-london
 https://data.london.gov.uk/download/cultural-infrastructure-map/debe429f-c76b-41d0-bf96-c859fbb8a8a4/site_by_borough.zip
 
 
-## Coordinates_api
-### Input
-This script takes in business_census2021.csv
-### Output
-The output file is cleaned_postcodes_coordinates.csv 
-
-
 
 ## Extract_transform
 ### Input 
